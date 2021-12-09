@@ -11584,3 +11584,15 @@ footer.footer .social-link:hover {
 .email:hover {
   color: var(--bs-orange);
 }
+
+.x-small {
+  display: block;
+  text-decoration: none;
+  height: 4rem;
+  width: 4rem;
+  line-height: 4.3rem;
+  background-color: #1D809F;
+  transition: background-color 0.15s ease-in-out;
+  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
+  font-size: 1em;
+}
