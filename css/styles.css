@@ -11437,8 +11437,8 @@ html {
 }
 
 footer.footer {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 footer.footer .social-link {
   display: block;
@@ -11454,6 +11454,10 @@ footer.footer .social-link {
 footer.footer .social-link:hover {
   background-color: #155d74;
   text-decoration: none;
+}
+
+.resume-button:hover {
+  background-color: var(--bs-gray-400);
 }
 
 .map {
